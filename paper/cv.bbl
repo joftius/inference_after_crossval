@@ -1,0 +1,159 @@
+\begin{thebibliography}{12}
+% BibTex style file: imsart-nameyear.bst, 2013-01-28
+% Default style options (sort=1,type=nameyear).
+% Used options (sort=1,type=nameyear).
+
+\bibitem[\protect\citeauthoryear{{Belloni}, {Chernozhukov} and
+  {Wang}}{2010}]{sqrtlasso}
+\begin{barticle}[author]
+\bauthor{\bsnm{{Belloni}},~\bfnm{A.}\binits{A.}},
+  \bauthor{\bsnm{{Chernozhukov}},~\bfnm{V.}\binits{V.}} \AND
+  \bauthor{\bsnm{{Wang}},~\bfnm{L.}\binits{L.}}
+(\byear{2010}).
+\btitle{{Square-Root Lasso: Pivotal Recovery of Sparse Signals via Conic
+  Programming}}.
+\bjournal{ArXiv e-prints}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Efron et~al.}{2004}]{efron2004lar}
+\begin{barticle}[author]
+\bauthor{\bsnm{Efron},~\bfnm{Bradley}\binits{B.}},
+  \bauthor{\bsnm{Hastie},~\bfnm{Trevor}\binits{T.}},
+  \bauthor{\bsnm{Johnstone},~\bfnm{Iain}\binits{I.}},
+  \bauthor{\bsnm{Tibshirani},~\bfnm{Robert}\binits{R.}} \betal{et~al.}
+(\byear{2004}).
+\btitle{Least angle regression}.
+\bjournal{The Annals of statistics}
+\bvolume{32}
+\bpages{407--499}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Fithian, Sun and
+  Taylor}{2014}]{fithian2014optimal}
+\begin{barticle}[author]
+\bauthor{\bsnm{Fithian},~\bfnm{William}\binits{W.}},
+  \bauthor{\bsnm{Sun},~\bfnm{Dennis}\binits{D.}} \AND
+  \bauthor{\bsnm{Taylor},~\bfnm{Jonathan}\binits{J.}}
+(\byear{2014}).
+\btitle{Optimal inference after model selection}.
+\bjournal{arXiv preprint arXiv:1410.2597}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Friedman, Hastie and
+  Tibshirani}{2010}]{glmnet}
+\begin{barticle}[author]
+\bauthor{\bsnm{Friedman},~\bfnm{Jerome}\binits{J.}},
+  \bauthor{\bsnm{Hastie},~\bfnm{Trevor}\binits{T.}} \AND
+  \bauthor{\bsnm{Tibshirani},~\bfnm{Robert}\binits{R.}}
+(\byear{2010}).
+\btitle{Regularization Paths for Generalized Linear Models via Coordinate
+  Descent}.
+\bjournal{Journal of Statistical Software}
+\bvolume{33}
+\bpages{1--22}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{{Gross}, {Taylor} and
+  {Tibshirani}}{2015}]{gross2015internal}
+\begin{barticle}[author]
+\bauthor{\bsnm{{Gross}},~\bfnm{S.~M.}\binits{S.~M.}},
+  \bauthor{\bsnm{{Taylor}},~\bfnm{J.}\binits{J.}} \AND
+  \bauthor{\bsnm{{Tibshirani}},~\bfnm{R.}\binits{R.}}
+(\byear{2015}).
+\btitle{{A Selective Approach to Internal Inference}}.
+\bjournal{ArXiv e-prints}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Lee et~al.}{2015}]{lee2013exact}
+\begin{barticle}[author]
+\bauthor{\bsnm{Lee},~\bfnm{Jason~D}\binits{J.~D.}},
+  \bauthor{\bsnm{Sun},~\bfnm{Dennis~L}\binits{D.~L.}},
+  \bauthor{\bsnm{Sun},~\bfnm{Yuekai}\binits{Y.}} \AND
+  \bauthor{\bsnm{Taylor},~\bfnm{Jonathan~E}\binits{J.~E.}}
+(\byear{2015}).
+\btitle{Exact post-selection inference with the lasso}.
+\bjournal{Ann. Statist.}
+\bnote{To appear}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{{Loftus} and
+  {Taylor}}{2015}]{loftus2015groups}
+\begin{barticle}[author]
+\bauthor{\bsnm{{Loftus}},~\bfnm{J.~R.}\binits{J.~R.}} \AND
+  \bauthor{\bsnm{{Taylor}},~\bfnm{J.~E.}\binits{J.~E.}}
+(\byear{2015}).
+\btitle{{Selective inference in regression models with groups of variables}}.
+\bjournal{ArXiv e-prints}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Reid, Tibshirani and
+  Friedman}{2013}]{reid2013sigma}
+\begin{barticle}[author]
+\bauthor{\bsnm{Reid},~\bfnm{Stephen}\binits{S.}},
+  \bauthor{\bsnm{Tibshirani},~\bfnm{Robert}\binits{R.}} \AND
+  \bauthor{\bsnm{Friedman},~\bfnm{Jerome}\binits{J.}}
+(\byear{2013}).
+\btitle{A study of error variance estimation in lasso regression}.
+\bjournal{arXiv preprint arXiv:1311.5274}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Taylor, Loftus and
+  Tibshirani}{2015}]{taylor2013tests}
+\begin{barticle}[author]
+\bauthor{\bsnm{Taylor},~\bfnm{Jonathan~E.}\binits{J.~E.}},
+  \bauthor{\bsnm{Loftus},~\bfnm{Joshua~R.}\binits{J.~R.}} \AND
+  \bauthor{\bsnm{Tibshirani},~\bfnm{Ryan~J.}\binits{R.~J.}}
+(\byear{2015}).
+\btitle{Tests in adaptive regression via the Kac-Rice formula}.
+\bjournal{Ann. Statist.}
+\bnote{To appear}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Tian, Loftus and
+  Taylor}{2015}]{tian2015sqrtlasso}
+\begin{barticle}[author]
+\bauthor{\bsnm{Tian},~\bfnm{Xiaoying}\binits{X.}},
+  \bauthor{\bsnm{Loftus},~\bfnm{Joshua~R}\binits{J.~R.}} \AND
+  \bauthor{\bsnm{Taylor},~\bfnm{Jonathan~E}\binits{J.~E.}}
+(\byear{2015}).
+\btitle{Selective inference with unknown variance via the square-root LASSO}.
+\bjournal{arXiv preprint arXiv:1504.08031}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{{Tibshirani}
+  et~al.}{2014}]{tibshirani2014exact}
+\begin{barticle}[author]
+\bauthor{\bsnm{{Tibshirani}},~\bfnm{R.~J.}\binits{R.~J.}},
+  \bauthor{\bsnm{{Taylor}},~\bfnm{J.}\binits{J.}},
+  \bauthor{\bsnm{{Lockhart}},~\bfnm{R.}\binits{R.}} \AND
+  \bauthor{\bsnm{{Tibshirani}},~\bfnm{R.}\binits{R.}}
+(\byear{2014}).
+\btitle{{Exact Post-Selection Inference for Sequential Regression Procedures}}.
+\bjournal{ArXiv e-prints}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Tibshirani et~al.}{2015}]{SIR}
+\begin{bmanual}[author]
+\bauthor{\bsnm{Tibshirani},~\bfnm{Ryan}\binits{R.}},
+  \bauthor{\bsnm{Tibshirani},~\bfnm{Rob}\binits{R.}},
+  \bauthor{\bsnm{Taylor},~\bfnm{Jonathan}\binits{J.}},
+  \bauthor{\bsnm{Loftus},~\bfnm{Joshua}\binits{J.}} \AND
+  \bauthor{\bsnm{Reid},~\bfnm{Stephen}\binits{S.}}
+(\byear{2015}).
+\btitle{selectiveInference: Tools for Selective Inference}
+\bnote{R package version 1.1.1}.
+\end{bmanual}
+\endbibitem
+
+\end{thebibliography}
